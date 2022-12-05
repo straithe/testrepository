@@ -1,6 +1,5 @@
 name: Bug Report 
 description: Submit a bug report
-title: "[Bug Report]: "
 labels: ["bug report"]
 body:
   - type: markdown
@@ -36,3 +35,4 @@ body:
     attributes:
       label: Can you provide any logs? (output, errors, etc.)
       placeholder: Please provide any logs you might have that illustrate the issue
+
