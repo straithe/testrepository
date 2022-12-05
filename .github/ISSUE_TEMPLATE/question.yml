@@ -1,6 +1,5 @@
 name: Question  
-description: Ask a question not covered by current greatfet.readthedocs.io/ documentation 
-title: "[Question]: "
+description: Ask a question not covered by current hackrf.rtfd.io documentation 
 labels: ["question"]
 body:
   - type: markdown
